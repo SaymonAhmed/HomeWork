@@ -8,7 +8,7 @@ public class MyCar {
 		System.out.print(" \n vehicle info: model = Highlander XLE ");
 		System.out.print(" \t\n vehicle info: color = Blizard Pearl ");
 		System.out.print(" \t\n vehicle info: mileage = 2,245 ");
-
+// change
 	}
 
 }
